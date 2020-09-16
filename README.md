@@ -1,5 +1,7 @@
 # Steuerungstechnik
 
+![logo](https://github.com/frankyhub/png/blob/master/logo.png)
+
 ## Inhalt
 - Steuerungstechnik Workshop Teil I - Logikfunktionen
 - Steuerungstechnik Workshop Teil II - Programmierung
